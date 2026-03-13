@@ -1,0 +1,205 @@
+{
+  "site": {
+    "title": "Wh Claw | 开源人工智能",
+    "description": "免费AI资源、开源工具和开发者社区教育内容。分享知识，让AI对每个人都触手可及。"
+  },
+  "nav": {
+    "home": "首页",
+    "resources": "资源",
+    "about": "关于",
+    "blog": "博客",
+    "faq": "常见问题",
+    "contact": "联系",
+    "brandName": "Wh Claw",
+    "searchPlaceholder": "搜索资源...",
+    "cartEmpty": "未选择项目",
+    "cartCheckout": "获取通知",
+    "continueShopping": "继续浏览"
+  },
+  "hero": {
+    "tagline": "人人可用的开源人工智能",
+    "title": "免费工具\n教程与\n资源",
+    "ctaPrimary": "探索资源",
+    "ctaSecondary": "阅读博客"
+  },
+  "subhero": {
+    "tag": "我的使命",
+    "heading": "通过开源让AI触手可及",
+    "paragraph1": "我相信AI应该对每个人都可及，而不仅仅是拥有巨额预算的大型科技公司。这就是为什么我为开发者社区创建和分享免费工具、教程和资源。",
+    "paragraph2": "这里的一切都是开源且免费使用的。无论你是学习机器学习的学生、构建第一个AI功能的初创公司，还是推动边界的研究人员——我希望这些资源能帮助你的旅程。",
+    "linkText": "了解更多关于我",
+    "stats": {
+      "projects": "开源项目",
+      "stars": "GitHub星标",
+      "readers": "月度读者",
+      "members": "社区成员"
+    }
+  },
+  "videoSection": {
+    "tag": "免费学习",
+    "heading": "按自己的节奏学习AI",
+    "paragraph1": "我创建了全面的教程和课程，涵盖从机器学习基础到LLM和计算机视觉等高级主题。全部完全免费，带有你可以自己运行的代码示例。",
+    "paragraph2": "内容专为动手学习而设计——阅读、编码、实验和构建。没有付费墙，没有订阅，只是与社区公开分享的知识。",
+    "ctaText": "开始学习"
+  },
+  "resources": {
+    "tag": "免费资源",
+    "heading": "开源工具与库",
+    "description": "我为社区构建的免费开源AI工具、库和资源集合。使用它们、分叉它们、为它们做贡献——它们是你的。",
+    "viewAll": "在GitHub上查看全部",
+    "learnMore": "了解更多",
+    "added": "已添加到列表",
+    "categories": {
+      "all": "全部",
+      "tools": "工具",
+      "libraries": "库",
+      "tutorials": "教程"
+    },
+    "items": {
+      "easyml": "EasyML工具包",
+      "llm": "LLM游乐场",
+      "vision": "VisionAI入门",
+      "deployment": "机器学习部署指南",
+      "nlp": "NLP工具集",
+      "practices": "AI最佳实践"
+    }
+  },
+  "features": {
+    "opensource": {
+      "title": "100%开源",
+      "description": "所有代码均采用MIT许可证。商业使用、修改、回馈贡献——完全自由构建你需要的任何东西。"
+    },
+    "maintenance": {
+      "title": "积极维护",
+      "description": "项目得到积极维护，定期更新、修复错误，并根据社区反馈添加新功能。"
+    },
+    "community": {
+      "title": "社区驱动",
+      "description": "在社区参与下构建。功能请求、PR和讨论塑造每个项目的方向。"
+    },
+    "free": {
+      "title": "永远免费",
+      "description": "没有高级版，没有试用，没有付费墙。这里的一切现在和将来都对所有人完全免费。"
+    }
+  },
+  "blog": {
+    "tag": "知识分享",
+    "heading": "博客最新文章",
+    "viewAll": "查看全部文章",
+    "readMore": "阅读更多",
+    "posts": {
+      "post1": {
+        "title": "从零开始构建你的第一个神经网络",
+        "excerpt": "使用纯NumPy理解和实现神经网络的分步指南。没有框架，只有纯粹的理解。"
+      },
+      "post2": {
+        "title": "大语言模型微调：实用指南",
+        "excerpt": "关于为特定用例微调大语言模型你需要知道的一切，附带可运行的代码示例。"
+      },
+      "post3": {
+        "title": "独立开发者的MLOps",
+        "excerpt": "不需要DevOps工程师团队的生产级机器学习流水线。适合小团队的简单有效方法。"
+      }
+    }
+  },
+  "faq": {
+    "tag": "常见问题",
+    "heading": "常见问题解答",
+    "ctaText": "还有问题？联系我",
+    "questions": {
+      "q1": {
+        "question": "所有内容真的都是免费的吗？",
+        "answer": "是的，绝对免费。本网站上的所有工具、库、教程和资源都是完全免费和开源的，采用MIT许可证。你可以将它们用于个人项目、商业工作或任何其他用途——无需署名（尽管会很感激！）。"
+      },
+      "q2": {
+        "question": "我如何贡献？",
+        "answer": "欢迎贡献！你可以在GitHub上提交错误报告、功能请求或拉取请求。甚至将这些资源分享给可能觉得有用的人也是对社区的宝贵贡献。"
+      },
+      "q3": {
+        "question": "教程适合什么技能水平？",
+        "answer": "我尝试让内容对各种技能水平都易于理解。教程通常包括适合初学者的解释和高级实现细节。如果你遇到困难，随时可以在GitHub讨论中提问。"
+      },
+      "q4": {
+        "question": "我可以在生产环境中使用这些工具吗？",
+        "answer": "许多这些工具已被公司和个人用于生产环境。然而，与任何开源软件一样，你应该评估它们是否满足你的特定要求。所有项目都包含关于其当前状态和任何已知限制的文档。"
+      },
+      "q5": {
+        "question": "你如何维持这项工作？",
+        "answer": "我在业余时间维护这些项目，作为回馈教会我的社区的一种方式。如果你发现我的工作有价值并想支持它，最好的方式是贡献代码、报告错误，或简单地与他人分享这些资源。"
+      }
+    }
+  },
+  "about": {
+    "section1": {
+      "tag": "关于我",
+      "heading": "一个回馈社区的开发者",
+      "paragraph1": "我是Alex，一名软件工程师，有幸在一些优秀的公司从事AI工作。一路走来，我从无数开源项目、免费教程和慷慨分享知识的社区成员那里学到了很多。",
+      "paragraph2": "这个网站是我回馈的方式。我创建我希望存在的工具，撰写我希望拥有的教程，公开分享一切，让其他人能够比我更快地学习和构建。",
+      "paragraph3": "当我不在编码或写作时，你会发现我在徒步、阅读或指导有抱负的开发者。我相信技术在自由分享和协作构建时处于最佳状态。"
+    },
+    "section2": {
+      "tag": "我的理念",
+      "heading": "知识渴望自由",
+      "quote": "最好的学习方式是教授。最好的成长方式是分享。开源不仅仅是代码——它是关于共同构建更美好的未来。",
+      "attribution": "—— Wh Claw"
+    }
+  },
+  "contact": {
+    "heading": "让我们联系",
+    "description": "有问题、建议，或者只是想聊聊AI？我很乐意听到你的声音。随时联系我。",
+    "locationLabel": "位置",
+    "location": "加利福尼亚州旧金山",
+    "emailLabel": "邮箱",
+    "email": "alex@opensource-ai.dev",
+    "githubLabel": "GitHub",
+    "github": "github.com/alexchen-ai",
+    "form": {
+      "nameLabel": "姓名",
+      "namePlaceholder": "你的名字",
+      "emailLabel": "邮箱",
+      "emailPlaceholder": "your@email.com",
+      "messageLabel": "留言",
+      "messagePlaceholder": "分享你的想法、问题或建议...",
+      "submit": "发送消息",
+      "submitting": "发送中...",
+      "submitted": "已发送！",
+      "success": "感谢联系！我会尽快回复你。"
+    }
+  },
+  "footer": {
+    "description": "开源AI工具、免费教程和开发者社区教育资源。为AI构建更易于接触的未来。",
+    "newsletter": {
+      "heading": "保持更新",
+      "description": "获取新工具、教程和博客文章的通知。没有垃圾邮件，只有有价值的内容。",
+      "placeholder": "输入你的邮箱",
+      "button": "订阅",
+      "success": "感谢订阅！"
+    },
+    "links": {
+      "resources": "资源",
+      "opensource": "开源工具",
+      "tutorials": "教程",
+      "github": "GitHub仓库",
+      "docs": "文档",
+      "connect": "联系",
+      "about": "关于我",
+      "blog": "博客",
+      "linkedin": "LinkedIn",
+      "community": "社区",
+      "contribute": "贡献",
+      "discussions": "讨论",
+      "faq": "常见问题",
+      "contact": "联系"
+    },
+    "legal": {
+      "license": "MIT许可证",
+      "privacy": "隐私政策"
+    },
+    "copyright": "© 2026 Wh Claw. 基于MIT许可证开源。"
+  },
+  "language": {
+    "switch": "切换语言",
+    "en": "English",
+    "zh": "中文"
+  }
+}
