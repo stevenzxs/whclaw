@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Added Docker deployment support with nginx:alpine
+- Added Dockerfile and docker-compose.yml for containerized deployment
+- Added deploy.sh script for automated deployment
+- Added nginx.conf configuration for SPA routing
+- Added DOCKER.md documentation for deployment guide
+
 ### Fixed
 - Fixed Tailwind CSS configuration issue by renaming `tailwind.config.js` to `tailwind.config.cjs` for ES module compatibility
 
