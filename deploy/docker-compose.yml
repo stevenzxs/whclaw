@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  whclaw:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: whclaw
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
