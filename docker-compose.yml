@@ -1,16 +1,18 @@
-version: '3.8'
-
 services:
   whclaw:
     build:
       context: .
       dockerfile: Dockerfile
+    image: whclaw:latest
     container_name: whclaw
     ports:
       - "80:80"
+      - "443:443"
+    volumes:
+      - ./certs:/etc/nginx/certs:ro
     restart: unless-stopped
     healthcheck:
-      test: ["CMD", "wget", "-q", "--spider", "http://localhost/health"]
+      test: ["CMD", "wget", "-q", "--spider", "http://127.0.0.1/health"]
       interval: 30s
       timeout: 10s
       retries: 3

@@ -45,3 +45,10 @@ coverage/
 /app/dist
 /app/dist
 /app/dist/assets
+
+# SSL certificates (never commit private keys)
+cert/
+*.key
+*.pem
+*.csr
+*.gz

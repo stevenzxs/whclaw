@@ -164,6 +164,16 @@ const Footer = () => {
               </a>
             </div>
           </div>
+          <div className="mt-4 text-center">
+            <a
+              href="https://beian.miit.gov.cn/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#696969] text-xs hover:text-black transition-colors"
+            >
+              鄂ICP备2026035501号
+            </a>
+          </div>
         </div>
       </div>
     </footer>
