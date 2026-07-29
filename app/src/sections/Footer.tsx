@@ -157,14 +157,6 @@ const Footer = () => {
             </p>
             <div className="flex flex-col md:flex-row items-center gap-2 md:gap-6">
               <a
-                href="https://beian.miit.gov.cn/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-[#696969] text-xs hover:text-black transition-colors"
-              >
-                鄂ICP备2026035501号
-              </a>
-              <a
                 href="https://beian.mps.gov.cn/#/query/webSearch?code=42011502002019"
                 rel="noreferrer"
                 target="_blank"
@@ -172,6 +164,14 @@ const Footer = () => {
               >
                 <img src="/images/beian.png" alt="备案图标" className="w-4 h-4" />
                 鄂公网安备42011502002019号
+              </a>
+              <a
+                href="https://beian.miit.gov.cn/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#696969] text-xs hover:text-black transition-colors"
+              >
+                鄂ICP备2026035501号
               </a>
               <a href="#" className="text-[#696969] text-xs hover:text-black transition-colors">
                 {t('footer.legal.license')}
