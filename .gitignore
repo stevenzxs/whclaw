@@ -52,3 +52,5 @@ cert/
 *.pem
 *.csr
 *.gz
+.omo/run-continuation/ses_05454725affe3yQjQ0elwhrbQU.json
+/.omo/run-continuation
