@@ -64,6 +64,39 @@
       "practices": "AI Best Practices"
     }
   },
+  "feed": {
+    "tag": "App Gallery",
+    "heading": "Latest Releases",
+    "subtitle": "Hand-picked open source apps, tools and tutorials. Click any card for the full introduction.",
+    "empty": "No products found.",
+    "results": "{count} items"
+  },
+  "product": {
+    "breadcrumbList": "Apps",
+    "version": "Version",
+    "platform": "Platform",
+    "size": "Size",
+    "license": "License",
+    "category": "Category",
+    "updated": "Updated",
+    "views": "Views",
+    "likes": "Likes",
+    "comments": "Comments",
+    "about": "Introduction",
+    "features": "Key Features",
+    "screenshots": "Screenshots",
+    "download": "Free Download",
+    "viewRepo": "View Source",
+    "related": "Related Products",
+    "back": "Back to list",
+    "notFound": "Product not found",
+    "notFoundDesc": "The product you are looking for does not exist or has been removed.",
+    "badge": {
+      "recommended": "Featured",
+      "new": "New",
+      "pinned": "Pinned"
+    }
+  },
   "features": {
     "opensource": {
       "title": "100% Open Source",

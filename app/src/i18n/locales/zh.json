@@ -64,6 +64,39 @@
       "practices": "AI最佳实践"
     }
   },
+  "feed": {
+    "tag": "应用中心",
+    "heading": "最新发布",
+    "subtitle": "精选开源应用、工具与教程，点击卡片查看完整介绍。",
+    "empty": "没有找到相关产品。",
+    "results": "共 {count} 个"
+  },
+  "product": {
+    "breadcrumbList": "应用",
+    "version": "版本",
+    "platform": "平台",
+    "size": "大小",
+    "license": "许可",
+    "category": "分类",
+    "updated": "更新日期",
+    "views": "浏览",
+    "likes": "点赞",
+    "comments": "评论",
+    "about": "产品介绍",
+    "features": "核心特性",
+    "screenshots": "界面截图",
+    "download": "免费下载",
+    "viewRepo": "查看源码",
+    "related": "相关产品",
+    "back": "返回列表",
+    "notFound": "产品不存在",
+    "notFoundDesc": "你要找的产品不存在或已被移除。",
+    "badge": {
+      "recommended": "推荐",
+      "new": "新",
+      "pinned": "置顶"
+    }
+  },
   "features": {
     "opensource": {
       "title": "100%开源",
